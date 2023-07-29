@@ -1,21 +1,10 @@
 # Hi, Myself Yash 👋
 - Automation Enthusiast 🌟
 - RPA (Robotic Process Automation) Practioner 🤖
-- AI and DevOps aspirant 🚀
+- AI and DevOps Aspirant 🚀
 
 ## Who am I?
 I am someone who likes to interact with multiple technologies and to be a key player in the midst of all the critical tasks that are being handled in projects. My conviction is that we can work, practice, and update our knowledge on our own, but the true essence of shaping a good career only comes through problem-solving at an industrial stage of projects. My work on GitHub are simply my experiments to understand the technologies of my interests.
-
-### I’m currently working on 🔭 
-- Jobs: I am looking for RPA and software development roles
-- Learning: Good frameworks for web-dev and trying different applications of AI/ML
-- Personal projects: Some magic is brewing in my brain🧠 regarding a music application 🎵🎻🎹 and a cool DSA project 🖥️
-
-### Education
-
-### Where did I work?
-
-### How to reach me - email📧 avgupta.yash@gmail.com
 
 ### My 2 cents on Automation:
 ---
@@ -28,6 +17,28 @@ I am someone who likes to interact with multiple technologies and to be a key pl
 > But it only exists for humans to take.
 
 — Yash (Relax, didn't borrow it from GPT 😉:)
+
+### I’m currently working on 🔭 
+- Jobs: I am looking for RPA and software development roles
+- Learning: Good frameworks for web-dev and trying different applications of AI/ML
+- Personal projects: Some magic is brewing in my brain🧠 regarding a music application 🎵🎻🎹 and a cool DSA project 🖥️
+
+### Education
+
+|            Institutions           |                                Achievements                                  |
+|:----------------------------------|:-----------------------------------------------------------------------------|
+|   University of Texas at Dallas   |          Bachelor of Technology in Computer Science and Engineering          |
+|  Vellore Institute of Technology  | Master of Science in Computer Science (Specialization - Intelligent Systems) |
+
+### Where did I work?
+
+|            Organization           |                                Position/Role                                 |
+|:----------------------------------|:-----------------------------------------------------------------------------|
+|   Tata Consultancy Services (TCS) |          Systems Engineer - RPA (Robotic Process Automation) Team            |
+|  Poly (now acquired by HP - Hewlett Packard)  | RPA (Robotic Process Automation) Intern - Enterprise Application Team |
+|  Tata Consultancy Services (TCS)  | Software Developement (Microservices) Intern - Backend and API Team          |
+
+### How to reach me - email📧 avgupta.yash@gmail.com
 
 <!--
 **yvgupta03/yvgupta03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

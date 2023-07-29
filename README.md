@@ -33,7 +33,7 @@ I am someone who likes to interact with multiple technologies and to be a key pl
 ### Where did I work?
 
 |            Organization           |                                Position/Role                                 |
-|:----------------------------------|:-----------------------------------------------------------------------------|
+|:----------------------------------|:----------------------------------------------------------------------------------|
 |   Tata Consultancy Services (TCS) |          Systems Engineer - RPA (Robotic Process Automation) Team            |
 |  Poly (now acquired by HP - Hewlett Packard)  | RPA (Robotic Process Automation) Intern - Enterprise Application Team |
 |  Tata Consultancy Services (TCS)  | Software Developement (Microservices) Intern - Backend and API Team          |

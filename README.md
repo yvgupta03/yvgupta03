@@ -4,7 +4,7 @@
 - AI and DevOps aspirant 🚀
 
 ## Who am I?
-I am someone who likes to interact with multiple technologies and to be a key player in between all the critical tasks that are being handled in projects. My conviction says that we can work practice and update our knowdledge by ourselves but the true essense of shaping a good career only comes through problem solving at an industrial stage of project. My work at github are simply my experiments to understand the technologies of my interests.
+I am someone who likes to interact with multiple technologies and to be a key player in the midst of all the critical tasks that are being handled in projects. My conviction is that we can work, practice, and update our knowledge on our own, but the true essence of shaping a good career only comes through problem-solving at an industrial stage of projects. My work on GitHub are simply my experiments to understand the technologies of my interests.
 
 ### I’m currently working on 🔭 
 - Jobs: I am looking for RPA and software development roles

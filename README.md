@@ -6,7 +6,12 @@
 ## Who am I?
 I am someone who likes to interact with multiple technologies and to be a key player in the midst of all the critical tasks that are being handled in projects. My conviction is that we can work, practice, and update our knowledge on our own, but the true essence of shaping a good career only comes through problem-solving at an industrial stage of projects. My work on GitHub are simply my experiments to understand the technologies of my interests.
 
-### My 2 cents on Automation:
+## My Skillset
+- Languages: Java, Python, Shell script, JavaScript, HTML, CSS, Bootstrap, C#, JSON, XML, SQL, Git
+- Technologies & Tools: Ui-Path, MySQL, Redis, MongoDB, Docker, Spring Boot, Express-js, Node-js, AJAX-jQuery, Eclipse, Postman, Git, Virtual Box, Intellibot, Automation Anywhere, Databricks cluster, Google-Colab, PySpark ML-lib, ServiceNow APIs, Py-torch, Jira, GitHub
+- Technical Aspects: Object-Oriented Programming, Web-services, Microservices, Containerization, Virtualization, Neural Net, Big-data, REST APIs, RPA, RE-framework (Ui-Path), IQ-bots, Meta-bots, Artificial-Intelligence
+
+### My 2 cents on Automation 😄
 ---
 > It not that simple, like some piece of cake.
 > You will only have dimple, until you start to bake.

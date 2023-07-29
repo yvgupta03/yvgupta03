@@ -45,8 +45,9 @@ I am someone who likes to interact with multiple technologies and to be a key pl
 |  Poly (now acquired by HP - Hewlett Packard)  | RPA (Robotic Process Automation) Intern - Enterprise Application Team |
 |  Tata Consultancy Services (TCS)  | Software Developement (Microservices) Intern - Backend and API Team          |
 
-### How to reach me - Email📧 avgupta.yash@gmail.com 
-### [Linkedin](https://www.linkedin.com/in/yash-vijaynarayan-gupta-203480135/)
+### How to reach me 📞
+- Email📧 avgupta.yash@gmail.com 
+- [Linkedin](https://www.linkedin.com/in/yash-vijaynarayan-gupta-203480135/)
 
 <!--
 **yvgupta03/yvgupta03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

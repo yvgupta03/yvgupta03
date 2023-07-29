@@ -46,7 +46,7 @@ I am someone who likes to interact with multiple technologies and to be a key pl
 |  Tata Consultancy Services (TCS)  | Software Developement (Microservices) Intern - Backend and API Team          |
 
 ### How to reach me 📞
-- Email📧 avgupta.yash@gmail.com 
+- avgupta.yash@gmail.com📧 
 - [Linkedin](https://www.linkedin.com/in/yash-vijaynarayan-gupta-203480135/)
 
 <!--

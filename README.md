@@ -28,7 +28,7 @@ I am someone who likes to interact with multiple technologies and to be a key pl
 ### I’m currently working on 🔭 
 - Jobs💼 - I am looking for RPA and software development roles
 - Learning🌱 - Good frameworks for web-dev and trying different applications of AI/ML
-- Personal projects📕 - Some magic is brewing in my brain🧠 regarding a music application 🎵🎻🎹 and a cool DSA project 🖥️
+- Personal projects📕 - Some magic is brewing in my brain🧠 regarding a music application 🎵🎻🎹 and a cool DSA project💡
 
 ### Education
 

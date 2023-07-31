@@ -16,7 +16,7 @@ I am someone who likes to interact with multiple technologies and to be a key pl
 ### My 2 cents on Automation 😄
 ---
 > It not that simple, like some piece of cake.
-> You will only have dimple, until you start to bake.
+> You will only have dimples, until you start to bake.
 >
 > There is a lot of work for automation's sake.
 > Don't forget the ones who built it without break.
@@ -28,7 +28,7 @@ I am someone who likes to interact with multiple technologies and to be a key pl
 ### I’m currently working on 🔭 
 - Jobs💼 - I am looking for RPA and software development roles
 - Learning🌱 - Good frameworks for web-dev and trying different applications of AI/ML
-- Personal projects📕 - Some magic is brewing in my brain🧠 regarding a music application 🎵🎻🎹 and a cool DSA project💡
+- Personal projects📕 - Something magical is brewing in my brain🧠 regarding a music application 🎵🎻🎹 and a cool DSA project💡
 
 ### Education
 

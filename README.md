@@ -46,8 +46,7 @@ I am someone who likes to interact with multiple technologies and to be a key pl
 |  Tata Consultancy Services (TCS)  | Software Developement (Microservices) Intern - Backend and API Team          |
 
 ### How to reach me 📞
-- avgupta.yash@gmail.com📧 
-- [Linkedin](https://www.linkedin.com/in/yash-vijaynarayan-gupta-203480135/)
+- avgupta.yash@gmail.com📧
 
 <!--
 **yvgupta03/yvgupta03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -26,7 +26,7 @@ I am someone who likes to interact with multiple technologies and to be a key pl
 — Yash (Relax, didn't borrow it from GPT 😉:)
 
 ### I’m currently working on 🔭 
-- Jobs💼 - I am looking for RPA and software development roles
+- Jobs💼 - I am looking for roles in the domain of RPA as well as software development, backend is my favourite
 - Learning🌱 - Good frameworks for web-dev and trying different applications of AI/ML
 - Personal projects📕 - Something magical is brewing in my brain🧠 regarding a music application 🎵🎻🎹 and a cool DSA project💡
 
@@ -34,13 +34,14 @@ I am someone who likes to interact with multiple technologies and to be a key pl
 
 |            Institutions           |                                Achievements                                  |
 |:----------------------------------|:-----------------------------------------------------------------------------|
-|   University of Texas at Dallas   |          Bachelor of Technology in Computer Science and Engineering          |
-|  Vellore Institute of Technology  | Master of Science in Computer Science (Specialization - Intelligent Systems) |
+|   University of Texas at Dallas   | Master of Science in Computer Science (Specialization - Intelligent Systems)|
+|  Vellore Institute of Technology  | Bachelor of Technology in Computer Science and Engineering |
 
 ### Where did I work?
 
 |            Organization           |                                Position/Role                                 |
 |:----------------------------------|:----------------------------------------------------------------------------------|
+|   Dechert LLP |          RPA Developer - Enterprise Applications Team            |
 |   Tata Consultancy Services (TCS) |          Systems Engineer - RPA (Robotic Process Automation) Team            |
 |  Poly (now acquired by HP - Hewlett Packard)  | RPA (Robotic Process Automation) Intern - Enterprise Application Team |
 |  Tata Consultancy Services (TCS)  | Software Developement (Microservices) Intern - Backend and API Team          |

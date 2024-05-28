@@ -41,6 +41,7 @@ I am someone who likes to interact with multiple technologies and to be a key pl
 
 |            Organization           |                                Position/Role                                 |
 |:----------------------------------|:----------------------------------------------------------------------------------|
+|   Computer Task Group Inc. (CTG) |          RPA Engineer - Lead, Information Services            |
 |   Dechert LLP |          RPA Developer - Enterprise Applications Team            |
 |   Tata Consultancy Services (TCS) |          Systems Engineer - RPA (Robotic Process Automation) Team            |
 |  Poly (now acquired by HP - Hewlett Packard)  | RPA (Robotic Process Automation) Intern - Enterprise Application Team |
